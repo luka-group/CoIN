@@ -21,6 +21,7 @@ pip install -r requirements.txt
 
 ## Data
 The original data source of our new dataset is the FLAN collection, specifically from [Muennighoff/flan](https://huggingface.co/datasets/Muennighoff/flan) on Huggingface.
+The model we used is Alpaca trained with LoRA. We used code from [Alpaca-LoRA](https://github.com/tloen/alpaca-lora) as a starting point and added our implementations.
 We follow the steps discussed in section 3.2 of the paper to curate dataset for CoIN, which is available [here](dataset/contrastive_flan_data.csv).
 - Each entry contains:
   - The original instruction-input pair (```original_instruction```)
