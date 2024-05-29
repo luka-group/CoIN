@@ -63,10 +63,10 @@ python promptbench/postprocessing.py --output_dir "YOUR_OUTPUT_DIR"
 
 ## Citation
 ```
-@article{yan2024contrastive,
+@inproceedings{yan2024contrastive,
   title={Contrastive Instruction Tuning},
   author={Yan, Tianyi and Wang, Fei and Huang, James Y and Zhou, Wenxuan and Yin, Fan and Galstyan, Aram and Yin, Wenpeng and Chen, Muhao},
-  journal={arXiv preprint arXiv:2402.11138},
+  booktitle={ACL - Findings},
   year={2024}
 }
 ```
