@@ -1,5 +1,5 @@
 # CoIN 
-This repository is the official implementation of [Contrastive Instruction Tuning](https://arxiv.org/abs/2402.11138).
+This repository is the official implementation of our ACL'24 Findings paper [Contrastive Instruction Tuning](https://arxiv.org/abs/2402.11138).
 
 ## Installation
 ### Dependency
